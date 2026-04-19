@@ -1,0 +1,31 @@
+# Project: Habit Tracker
+
+## Overview
+This is a simple habit tracker web app built with HTML, CSS, and JavaScript.
+
+## Structure
+- index.html → main structure
+- style.css → styling
+- script.js → functionality
+
+## Rules for Claude Code
+- Always make clean, minimal changes
+- Do not break existing functionality
+- Keep code simple and readable
+- Follow the current project structure
+
+## Git Workflow
+After completing any meaningful change:
+1. Stage changes using: git add .
+2. Commit with a clear message explaining what changed
+3. Push to GitHub using: git push
+
+## Commit Message Style
+- Be short and clear
+- Example:
+  - "Updated title"
+  - "Added delete button"
+  - "Fixed input bug"
+
+## Goal
+Maintain a working habit tracker and improve it step by step while keeping everything backed up on GitHub.
